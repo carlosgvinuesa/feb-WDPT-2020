@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "xbox one",
+      "price": 6000
+    },
+    {
+      "name": "Playstation",
+      "price": 8000,
+      "id": 2
+    },
+    {
+      "name": "Playstation",
+      "price": 8000,
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "title": "Get todos",
+      "body": "fetch todos bbs",
+      "id": 1
+    },
+    {
+      "title": "otra todo",
+      "body": "otro body de todo",
+      "id": 2
+    },
+    {
+      "title": "test de todo",
+      "body": "test",
+      "id": 3
+    },
+    {
+      "title": "nueva todo",
+      "body": "esta cosa debe de actualizar el listado",
+      "id": 4
+    },
+    {
+      "title": "asd",
+      "body": "asd",
+      "id": 5
+    },
+    {
+      "title": "asdads",
+      "body": "asdads",
+      "id": 6
+    },
+    {
+      "title": "adsasd",
+      "body": "asdasd",
+      "id": 7
+    },
+    {
+      "title": "se limpia",
+      "body": "el input se debe limpiar",
+      "id": 8
+    }
+  ]
+}
